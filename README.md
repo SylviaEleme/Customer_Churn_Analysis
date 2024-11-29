@@ -69,7 +69,7 @@ EDA was performed to understand the distribution of data, detect anomalies, and 
 Several business questions were asked and answered through visualizations:
 
 ### PowerBI Dashboard 
-![Telco Churn Analysis Dashboard](Visuals\Dashboard.png)
+![Telco Churn Analysis Dashboard](Visuals/Dashboard.png)
 
 1. **How does customer churn vary across different genders??**
    ![Churn to Genders](Visuals\Churn_to_Genders.png)
