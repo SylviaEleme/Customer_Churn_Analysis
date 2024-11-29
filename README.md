@@ -96,6 +96,10 @@ The best-performing model was chosen based on these evaluation metrics and used 
 
 1. Clone the repository:
    ```bash
+   
+https://github.com/SylviaEleme/Customer_Churn_Analysis.git
+
+
  
 
 
